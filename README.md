@@ -11,6 +11,15 @@ gcc hello.c -o hello
 ./hello
 ```
 
+## C++
+
+To compile and run the C++ program, use the following commands:
+
+```bash
+g++ hello.cpp -o hello
+./hello
+```
+
 ## Java
 
 To compile and run the Java program, use the following commands:
@@ -42,6 +51,15 @@ To run the R script, use the following command:
 
 ```bash
 Rscript hello.r
+```
+
+## Rust
+
+To compile and run the Rust program, use the following commands:
+
+```bash
+rustc hello.rs
+./hello
 ```
 
 ## PHP
