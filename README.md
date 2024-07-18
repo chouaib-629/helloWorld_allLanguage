@@ -18,7 +18,7 @@ To compile and run the C++ program, use the following commands:
 ```bash
 g++ hello.cpp -o hello
 ./hello
-``
+```
 
 ## Java
 
