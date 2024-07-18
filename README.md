@@ -53,6 +53,15 @@ To run the R script, use the following command:
 Rscript hello.r
 ```
 
+## Rust
+
+To compile and run the Rust program, use the following commands:
+
+```bash
+rustc hello.rs
+./hello
+```
+
 ## PHP
 
 To run the PHP script, use the following command:
