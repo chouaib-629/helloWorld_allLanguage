@@ -11,6 +11,15 @@ gcc hello.c -o hello
 ./hello
 ```
 
+## C++
+
+To compile and run the C++ program, use the following commands:
+
+```bash
+g++ hello.cpp -o hello
+./hello
+```
+
 ## Java
 
 To compile and run the Java program, use the following commands:
