@@ -20,6 +20,15 @@ javac hello.java
 java hello
 ```
 
+## Rust
+
+To compile and run the Rust program, use the following commands:
+
+```bash
+rustc hello.rs
+./hello
+```
+
 ## Python
 
 To run the Python script, use the following command:
